@@ -16,4 +16,14 @@ _(More projects will be added as I progress through the course.)_
 - Web Scraping and API Integration  
 - Data Structures and Algorithms  
 
+🌱 Learning Philosophy
+This repository reflects my commitment to learning Python through hands-on coding. No AI-generated code—just practice, debugging, and real problem-solving.
+
+📩 Feedback & Contributions
+While this is a personal learning repository, I'm always open to feedback! Feel free to create issues or suggest improvements.
+
+Happy coding! 🚀
+
+
+
 
